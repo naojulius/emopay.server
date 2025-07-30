@@ -1,0 +1,13 @@
+// graphql-api/tsconfig.json
+{
+    "compilerOptions": {
+      "target": "ES2020",
+      "module": "CommonJS",
+      "moduleResolution": "node",
+      "outDir": "dist",
+      "esModuleInterop": true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src"]
+  }
